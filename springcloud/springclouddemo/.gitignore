@@ -19,5 +19,8 @@ dev-support/
 # Dockerfile
 /**/build.sh
 /**/Dockerfile
+*/.mvn
+*/mvnw
+*/mvnw.cmd
 
 
