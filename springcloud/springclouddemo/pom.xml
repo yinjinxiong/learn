@@ -31,6 +31,9 @@
         <java.version>1.8</java.version>
         <spring-cloud.version>Dalston.SR5</spring-cloud.version>
         <eureka.version>1.4.5.RELEASE</eureka.version>
+        <ribbon.version>1.4.5.RELEASE</ribbon.version>
+        <openfeign.version>1.4.5.RELEASE</openfeign.version>
+        <netflix.version>1.4.5.RELEASE</netflix.version>
     </properties>
 
     <dependencies>
