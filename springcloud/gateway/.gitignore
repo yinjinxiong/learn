@@ -1,0 +1,26 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+*.iml
+/**/.settings
+/**/.idea
+out
+gen
+generatorConfig.xml
+/**/target/
+
+# Log file
+/**/logs
+dev-support/
+*.log
+
+# Dockerfile
+/**/build.sh
+/**/Dockerfile
+*/.mvn
+*/mvnw
+*/mvnw.cmd
+
+
